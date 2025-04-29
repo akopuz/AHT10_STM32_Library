@@ -1,0 +1,7 @@
+../Core/Src/aht10.c:21:6:ahtx0_begin	2
+../Core/Src/aht10.c:44:19:ahtx0_get_status	3
+../Core/Src/aht10.c:70:16:ahtx0_get_cal_state	3
+../Core/Src/aht10.c:95:6:ahtx0_soft_reset	1
+../Core/Src/aht10.c:109:6:ahtx0_read_sensor	2
+../Core/Src/aht10.c:130:7:ahtx0_get_temperature	1
+../Core/Src/aht10.c:140:7:ahtx0_get_humidity	1
